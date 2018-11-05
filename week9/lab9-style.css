@@ -1,0 +1,14 @@
+p {
+    font-size: 15px;
+    color: blue;
+}
+h1{
+   text-align: center;
+}
+.purhead h3{
+    text-align: center;
+    color: purple;
+}
+p.large-text{
+    font-size: 20px;
+} 
